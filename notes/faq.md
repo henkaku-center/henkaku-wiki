@@ -1,3 +1,13 @@
+---
+title: faq
+description: 
+published: true
+date: 2022-02-12T08:34:40.739Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-12T06:37:13.645Z
+---
+
 # FAQ
 
 ## About the Coinvise bot
@@ -17,4 +27,5 @@
 ## About Snapshot and proposals
 
 ### Q: My voting power is different from the amount of $HENKAKU on my address
+
 - Voting power for a given proposal is the amount of $HENKAKU the voter held when the proposal was published. It is not relevant if at the time of voting the voter's $HENKAKU has increased.
