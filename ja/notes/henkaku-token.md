@@ -1,3 +1,13 @@
+---
+title: henkaku-token
+description: 
+published: true
+date: 2022-02-12T08:33:57.671Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-12T06:37:10.029Z
+---
+
 # 変革会のトークン
 
 Draft December 4, 2021 - 15:09:43
