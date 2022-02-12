@@ -1,4 +1,5 @@
 # For Git Contributors（日本語）
+
 ## Gitを使い始めるときに役立つリソース
 - [初心者向けGithubへのPullRequest方法 - Qiita（日本語）](https://qiita.com/samurai_runner/items/7442521bce2d6ac9330b)
 - [プルリクエストの作成（英語）](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
