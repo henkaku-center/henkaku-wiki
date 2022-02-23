@@ -1,9 +1,9 @@
 ---
 title: faq
-description: 
+description:
 published: true
 date: 2022-02-12T08:34:40.739Z
-tags: 
+tags:
 editor: markdown
 dateCreated: 2022-02-12T06:37:13.645Z
 ---
@@ -29,3 +29,9 @@ dateCreated: 2022-02-12T06:37:13.645Z
 ### Q: My voting power is different from the amount of $HENKAKU on my address
 
 - Voting power for a given proposal is the amount of $HENKAKU the voter held when the proposal was published. It is not relevant if at the time of voting the voter's $HENKAKU has increased.
+
+## For those who lack $MATIC
+
+### Q: How many $MATICs are appropriate to send for `INITIAL $MATIC needed`?
+
+- Please send 0.05 MATIC
