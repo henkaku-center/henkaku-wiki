@@ -1,7 +1,7 @@
 ---
 title: on board tips for mobile (JA)
 description:
-published: false
+published: true
 date: 
 tags:
 editor: markdown
