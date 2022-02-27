@@ -12,7 +12,7 @@ dateCreated:
 ## How to join Henkaku Discord Community by iPhone/iPad **Tips**  
 
 ---
-1. **Creating your own wallet by MetaMask**  
+1. **Creating your own wallet with MetaMask**  
 	- Open the MetaMask app and create it as instructed.
 	- Be sure to write down the Secret Recovery Phrase in a secure way. You will need it if you want to use the wallet you have created on another smartphone or PC.
 	- If you lose your Secret Recovery Phrase, you may not be able to use your wallet.  
