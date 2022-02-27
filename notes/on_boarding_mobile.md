@@ -1,5 +1,5 @@
 ---
-title: on board tips for mobile (EN)
+title: onboarding tips for mobile (EN)
 description:
 published: true
 date: 
