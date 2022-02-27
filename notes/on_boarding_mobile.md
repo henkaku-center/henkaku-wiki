@@ -17,13 +17,13 @@ dateCreated:
 	- Be sure to write down the Secret Recovery Phrase in a secure way. You will need it if you want to use the wallet you have created on another smartphone or PC.
 	- If you lose your Secret Recovery Phrase, you may not be able to use your wallet.  
 ---
-2. **Fill out the ently form**  
+2. **Fill out the entry form**  
 	- Enter your first and last name, email, gender, and Ethereum Address (alphanumeric sequence starting with "0x" for wallets created with MetaMask) correctly.  
-	- Open the wallet and tap on the Ethereum Address to copy it.  
-	- Enter as specific as possible in Strength, Favorite Project, Your Henkaku, and Contribution.  
+	- Open the wallet and tap on your Ethereum Address to copy it.  
+	- Enter, in a way as specific as possible, your Strengths, Favorite Project, Your Henkaku, and Contribution.  
 
 #### About invitations to the community  
-##### The community is gradually expanding its membership, taking into account the diversity of its members. The community is gradually expanding its membership, taking into account the diversity of its members. Completing the entry form does not mean that you will be invited immediately. Please wait until you receive an invitation to join the community discord from our staff at the email address you entered in the entry form. Please note that we cannot inform you of the timing of the invitation even if you contact us.  
+##### The community is gradually expanding its membership, taking into account the diversity of its members. Completing the entry form does not mean that you will be invited immediately. Please wait until you receive an invitation to join the community discord from our staff at the email address you entered in the entry form. Please note that we cannot inform you of the timing of the invitation even if you contact us.  
 ---
 3. **How to Join the community**  
 	- Tap the Discord invite link "https://discord.gg/\..." in the email invitation from the staff. to join the Henkaku community.  
