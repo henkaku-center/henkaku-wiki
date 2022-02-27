@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: 
 ---
 
-# **HENKAKU on boarding**  
-## How to join Henkaku Discord Community by iPhone/iPad **Tips**  
+# **HENKAKU onboarding**  
+## How to join the Henkaku Discord Community by iPhone/iPad **Tips**  
 
 ---
 1. **Creating your own wallet with MetaMask**  
