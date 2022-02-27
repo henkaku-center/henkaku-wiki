@@ -52,7 +52,7 @@ dateCreated:
 		- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。  
 		---
 
-		<table align+"center">
+		<table align="center">
 		<tr align="center">
 			<td>ネットワーク名 (Network Name)</td>
 			<td>Polygon Mainnet</td>
