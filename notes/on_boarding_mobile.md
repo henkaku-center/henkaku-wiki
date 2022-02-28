@@ -19,7 +19,7 @@ dateCreated:
 ---
 2. **Fill out the entry form**  
 	- Enter your first and last name, email, gender, and Ethereum Address (alphanumeric sequence starting with "0x" for wallets created with MetaMask) correctly.  
-	- Open the wallet and tap on your Ethereum Address to copy it.  
+	- Open the wallet and tap your Ethereum Address to copy it.  
 	- Enter, in a way as specific as possible, your Strengths, Favorite Project, Your Henkaku, and Contribution.  
 
 #### About invitations to the community  
@@ -81,7 +81,8 @@ dateCreated:
 		
 		<br>
 
-		<p align="center">	 	<a>0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E</a> 
+		<p align="center">	
+		 	<a align="center">0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E</a> 
 		</p>
 
 		<br>
@@ -89,12 +90,12 @@ dateCreated:
 		- Tap "IMPORT" in the bottom right corner. If you see "0 HENKAKU" under "MATIC" in the wallet, you are done setting up your wallet.
 
 	- **Get some MATIC**  
-	When sending tokens on the blockchain, you need to pay a transaction fee called "gas fees". You will need some $MATIC to send HENKAKU tokens ($HENKAKU) in the Polygon network. If you don't have $MATIC, you can get $MATIC from Admin by following the procedure below.     
+	When sending tokens on the blockchain, you need to pay a transaction fee called "gas fees". You will need some \$MATIC to send HENKAKU tokens (\$HENKAKU) in the Polygon network. If you don't have \$MATIC, you can get $MATIC from Admin by following the procedure below.     
 	  - **Tap the channel "❓｜q-and-a"**  
 	  - Copy and paste "INITIAL \$MATIC needed" into message area in the bottom (but do not post).  
 	  - Copy your address from your wallet and paste followed by ". .needed”.  
 		(You can copy your address "0x............" from your MetaMask wallet).  
-	  - When you post, Admin will send some $MATIC to your wallet. You can check your $MATIC in MetaMask. It's a very small amount, but if you're just sending $HENKAKU in this community, it's no problem at all.  
+	  - When you post, Admin will send some \$MATIC to your wallet. You can check your \$MATIC in MetaMask. It's a very small amount, but if you're just sending $HENKAKU in this community, it's no problem at all.  
 	- **How to use $HENKAKU**。
 	  - **Tap the channel "💰│henkaku-exchange"**  
 	  - Post the command "!register".
@@ -118,7 +119,7 @@ dateCreated:
 		- Enter "/tip token:" followed by "henkaku".    
 		- Tap the "network" displayed above.  
 		- Tap "Matic/Polygon" displayed above.
-		- Enter "/tip token:henkaku network:Matic/Polygon user:" followed by Discord ID which you want to send $HENKAKU.  
+		- Enter "/tip token:henkaku network:Matic/Polygon user:" followed by Discord ID which you want to send \$HENKAKU.  
 		- Enter "/tip token:henkaku network:Matic/Polygon user:\[Discord ID\] amount:" followed by the amount of $HENKAKU, you want to send.
 	  - You will receive a DM from coinvise Bot. Copy the link in the DM.   
 	  - Set your MetaMask wallet to Polygon Mainnet.  
