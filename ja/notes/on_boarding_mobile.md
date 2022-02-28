@@ -1,5 +1,5 @@
 ---
-title: on board tips for mobile (JA)
+title: onboarding tips for mobile (JA)
 description:
 published: true
 date: 
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 
 ---
 
-# **HENKAKU on boarding**  
+# **HENKAKU onboarding**  
 ## スマートフォンからのHenkaku コミュニティへの参加方法 **Tips**  
 ##### 注) このTipsは、iPhone/iPadを使用した場合の手順です。
 ---
@@ -21,6 +21,7 @@ dateCreated:
 	- 姓名、email、Gender、Ethereum Address (MetaMaskで作成したウォレットの"0x"から始まる英数字列) を正確に記載します。  
 	- ウォレットを開いて、Ethereum Addressの表示をタップするとコピーできます。  
 	- Strength、Favorite Project、Your Henkaku、Contributionは、できるだけ具体的に書きましょう。  
+---
 
 #### ※コミュニティへのご招待について  
 ##### コミュニティでは、メンバーのダイバーシティを考慮しながら、徐々にメンバーを拡大しています。エントリーフォームへの入力を済まされても直ちにご招待できるわけではありません。スタッフから、エントリーフォームに入力いただいたemail宛にコミュニティdiscordへの招待の案内が届くまで、お待ちください。尚、ご招待のタイミングにつきましては、お問い合わせいただいても、ご案内できませんのでご了承ください。  
@@ -76,23 +77,24 @@ dateCreated:
 		</table>  
 
 		---
-		- MetaMaskにHENKAKUトークンを追加します。Polygon networkの設定が完了したら、MetaMaskのウォレットに戻り、中央一番上にあるウォレット(Wallet)のすぐ下のNetwork名をタップし、一番下にあるPolygon Mainnetをタップします(Polygon Mainnetは隠れているかもしれないので、一番下までスワイプ(swipe)してください)。一番下にある"Import Tokens"をタップし、トークンアドレス(Token Address)に以下のアドレスをコピー＆ペーストします。  
-		
-	<br>
-	<p align="center">
-	<a >0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E</a>
-	</p>
-	<br>
-		
-		- 右下にある"トークンの追加(IMPORT)"をタップします。ウォレットのMATICの下に、"0 HENKAKU"と表示されれば、完了です。
+		- MetaMaskにHENKAKUトークンを追加します。Polygon networkの設定が完了したら、MetaMaskのウォレットに戻り、中央一番上にあるウォレット(Wallet)のすぐ下のNetwork名をタップし、一番下にあるPolygon Mainnetをタップします(Polygon Mainnetは隠れているかもしれないので、一番下までスワイプ(swipe)してください)。一番下にある"Import Tokens"をタップし、トークンアドレス(Token Address)に以下のアドレスをコピー＆ペーストします。
 
-	- **MATICを取得**します。  
-	ブロックチェーンでトークンを送るときには、ガス代という取引手数料を支払う必要があり、取引手数料が格安のPolygonネットワークで使われる仮想通貨MATICが必要になります。MATICは、日本の仮想通貨取引所で購入できないため、MATICをお持ちでない方は、以下の手続きによって、AdminよりMATICを入手することができます。  
+
+		<br>
+		<p align="center">
+		<a align="center">0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E</a>
+		</p>
+		<br>  
+		
+		-	右下にある"トークンの追加(IMPORT)"をタップします。ウォレットのMATICの下に、"0 HENKAKU"と表示されれば、完了です。
+
+	- **\$MATICを取得**します。  
+	ブロックチェーンでトークンを送るときには、ガス代という取引手数料を支払う必要があり、取引手数料が格安のPolygonネットワークで使われる仮想通貨MATICが必要になります。\$MATICは、日本の仮想通貨取引所で購入できないため、\$MATICをお持ちでない方は、以下の手続きによって、Adminより\$MATICを入手することができます。  
 	  - **❓｜q-and-aというチャネル**をタップします。  
-	  - 投稿に"INITIAL \$MATIC needed "をコピー＆ペースト　(投稿はしない)  
+	  - 投稿に"INITIAL \$MATIC needed "をコピー＆ペースト (投稿はしない)  
 	  - ご自身のウォレットのアドレスをコピーし、"...needed "の後にペースト  
 		(MetaMaskウォレットに記載されている'0x............'というアドレスの表示をタップするとコピーできます。)  
-	  - 投稿すると、@adminが、あなたのウォレットにMATICを送ります。送られたMATICはMetaMaskで確認できます。少額ですが、このコミュニティでHENKAKUを送る程度であれば、全く問題ありません。
+	  - 投稿すると、@adminが、あなたのウォレットに\$MATICを送ります。送られた\$MATICはMetaMaskで確認できます。少額ですが、このコミュニティでHENKAKUトークンを送る程度であれば、全く問題ありません。
 
 	- **HENKAKUトークンを使った実験をするための設定**をします。
 	  - **💰│henkaku-exchange というチャネル**をタップします。
@@ -106,7 +108,7 @@ dateCreated:
 	  - "署名(Sign)"をタップすると、"Registration Complete"と表示されます。  
 	  - Discordに戻ると"!register"の下に✅が表示されたら登録完了です。  
 #### ※これでコミュニティでの初期設定が終わりました。お疲れ様でした。  
----
+
 5. **HENKAKUトークンを誰かに送る方法**  
 	HENKAKUトークンの設定が終わると、/tipコマンドで既に設定が終わっているこのコミュニティ参加者とHENKAKUトークンを送り合うことができます。  
 	- **💰│henkaku-exchangeというチャネル**をタップします。/tipコマンドの使い方は以下の手順です。  
