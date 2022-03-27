@@ -2,7 +2,7 @@
 title: メタバース
 description: 
 published: true
-date: 2022-03-20T07:50:34.188Z
+date: 2022-03-27T00:12:56.689Z
 tags: metaverse
 editor: markdown
 dateCreated: 2022-03-20T07:49:50.781Z
@@ -11,7 +11,7 @@ dateCreated: 2022-03-20T07:49:50.781Z
 # よく使うメタバースのサイト
 ## 2D・リモート・ワーク系
 - [SoWork](https://sowork.com/)
-	- Henkaku SoWork Office - インバイトは@joiあ@adminからもらってください
+	- Henkaku SoWork Office - インバイトは@joi または @adminからもらってください
 - [Gather Town](https://www.gather.town/)
 ## 3Dのサイト
 - [Cryptovoxels](https://www.cryptovoxels.com/)
