@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-04-10T08:17:38.579Z
+date: 2022-04-10T08:18:34.540Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -54,7 +54,8 @@ dateCreated: 2022-02-24T12:59:43.422Z
     https://shiniri.vercel.app/
 		- 以下の方法で、手動で設定することもできます。
  	---
-			- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。
+
+- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。
       
       <table align="center">
   			<tr align="center">
