@@ -1,11 +1,11 @@
 ---
 title: onboarding tips for mobile (EN)
-description:
+description: 
 published: true
-date: 
-tags:
+date: 2022-04-10T08:58:12.249Z
+tags: 
 editor: markdown
-dateCreated: 
+dateCreated: 2022-02-28T09:17:45.257Z
 ---
 
 # **HENKAKU onboarding**  
@@ -48,8 +48,12 @@ dateCreated:
 		- Tap the "Sign Message" button.  
 		- Tap "Sign" on the bottom right to connect your wallet, and "Message: Verify account ownership" is displayed.  
 		- If the message "Wallet Connected!" appears, the connection is complete.  
-	- **How to get HENKAKU token**  
-		- You must have Polygon configured on your wallet. Open the MetaMask app, tap the "≡" button in the upper left corner, tap ⚙Settings, tap Networks (Add and edit custom RPC networks), tap Add network, and then enter the following information, and finally tap "Add".  
+	- **How to get HENKAKU token**
+	  - You can setup the following SettingApp.  
+    [Setting App](/en/https://shiniri.vercel.app/)
+    ---  
+	  - Manual setting is as follows;
+		 - You must have Polygon configured on your wallet. Open the MetaMask app, tap the "≡" button in the upper left corner, tap ⚙Settings, tap Networks (Add and edit custom RPC networks), tap Add network, and then enter the following information, and finally tap "Add".  
 		---
 
 		<table align="center">
@@ -89,16 +93,18 @@ dateCreated:
 
 		- Tap "IMPORT" in the bottom right corner. If you see "0 HENKAKU" under "MATIC" in the wallet, you are done setting up your wallet.
 
-	- **Get some MATIC**  
+---    
+
+  -  **Get some MATIC**  
 	When sending tokens on the blockchain, you need to pay a transaction fee called "gas fees". You will need some \$MATIC to send HENKAKU tokens (\$HENKAKU) in the Polygon network. If you don't have \$MATIC, you can get $MATIC from Admin by following the procedure below.     
 	  - **Tap the channel "❓｜q-and-a"**  
 	  - Copy and paste "INITIAL \$MATIC needed" into message area in the bottom (but do not post).  
 	  - Copy your address from your wallet and paste followed by ". .needed”.  
 		(You can copy your address "0x............" from your MetaMask wallet).  
 	  - When you post, Admin will send some \$MATIC to your wallet. You can check your \$MATIC in MetaMask. It's a very small amount, but if you're just sending $HENKAKU in this community, it's no problem at all.  
-	- **How to use $HENKAKU**。
+  - **How to use $HENKAKU**。
 	  - **Tap the channel "💰│henkaku-exchange"**  
-	  - Post the command "!register".
+	  - Post the command "/register".
 	  - When you receive a DM from coinvise Bot, copy the link in the DM.  
 	  - Set your MetaMask wallet to Polygon Mainnet.
 	  - Open the MetaMask browser and paste the URL where it shows "Search or Type URL", and open it.  
@@ -106,7 +112,8 @@ dateCreated:
 	  - Tap on "connect to Metamask"  
 	  - Tap on "Veryfy using MetaMask"  
 	  - Tap "Sign", and then "Registration Complete" is displyed.  
-	  - Return to Discord, if you see ✅ under your commannd "!register", the process is complete.  
+	  
+    
 #### ※Now you have finished the initial setup in the community. Thank you for your time.  
 ---
 5. **How to send $HENKAKU**  
