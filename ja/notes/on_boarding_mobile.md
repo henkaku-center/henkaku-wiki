@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-04-10T08:27:53.068Z
+date: 2022-04-10T08:42:48.213Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -50,8 +50,8 @@ dateCreated: 2022-02-24T12:59:43.422Z
 		- ご自身のウォレットと"Message: Verify account ownership"を接続するために右下の"署名(Sign)"をタップしてください。  
 		- "Wallet Connected!"と表示されたら接続完了です。  
 	- **HENKAKUトークンの設定**をします。  
-		- この以下のリンクから、簡単に設定できます。　
-    https://shiniri.vercel.app/
+		- この以下の設定アプリから、簡単に設定できます。　
+    [設定アプリはこちら](/ja/https://shiniri.vercel.app/)
 		- 以下の方法で、手動で設定することもできます。
     ---
  	- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。
