@@ -1,11 +1,11 @@
 ---
 title: onboarding tips for mobile (JA)
-description:
+description: 
 published: true
-date: 
-tags:
+date: 2022-04-10T08:17:38.579Z
+tags: 
 editor: markdown
-dateCreated: 
+dateCreated: 2022-02-24T12:59:43.422Z
 ---
 
 # **HENKAKU onboarding**  
@@ -49,46 +49,51 @@ dateCreated:
 		- "Sign Message"をタップしてください。  
 		- ご自身のウォレットと"Message: Verify account ownership"を接続するために右下の"署名(Sign)"をタップしてください。  
 		- "Wallet Connected!"と表示されたら接続完了です。  
-	- **HENKAKUトークンの設定**をします。  　　
-		- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。  
-		---
+	- **HENKAKUトークンの設定**をします。  
+		- この以下のリンクから、簡単に設定できます。　
+    https://shiniri.vercel.app/
+		- 以下の方法で、手動で設定することもできます。
+ 	---
+			- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。
+      
+      <table align="center">
+  			<tr align="center">
+          <td>ネットワーク名 (Network Name)</td>
+          <td>Polygon Mainnet</td>
+  			</tr>
+  			<tr align="center">
+           <td>RPC URL (New RPC URL)</td>
+           <td>https://polygon-rpc.com/</td>
+  			</tr>
+  			<tr align="center">
+          <td>チェーンID (Chain ID)</td>
+          <td>137</td>
+  			</tr>
+  			<tr align="center">
+          <td>シンボル (Currency Symbol)</td>
+          <td>MATIC</td>
+  			</tr>
+  			<tr align="center">
+          <td>ブロックエクスプローラーのURL (Block Explorer URL)</td>
+          <td>https://polygonscan.com</td>
+  			</tr>
+			</table>
+      
+			- MetaMaskにHENKAKUトークンを追加します。Polygon networkの設定が完了したら、MetaMaskのウォレットに戻り、中央一番上にあるウォレット(Wallet)のすぐ下のNetwork名をタップし、一番下にあるPolygon Mainnetをタップします(Polygon Mainnetは隠れているかもしれないので、一番下までスワイプ(swipe)してください)。一番下にある"Import Tokens"をタップし、トークンアドレス(Token Address)に以下のアドレスをコピー＆ペーストします。
 
-		<table align="center">
-		<tr align="center">
-			<td>ネットワーク名 (Network Name)</td>
-			<td>Polygon Mainnet</td>
-		</tr>
-		<tr align="center">
-			<td>RPC URL (New RPC URL)</td>
-			<td>https://polygon-rpc.com/</td>
-		</tr>
-		<tr align="center">
-			<td>チェーンID (Chain ID)</td>
-			<td>137</td>
-		</tr>
-		<tr align="center">
-			<td>シンボル (Currency Symbol)</td>
-			<td>MATIC</td>
-		</tr>
-		<tr align="center">
-			<td>ブロックエクスプローラーのURL (Block Explorer URL)</td>
-			<td>https://polygonscan.com</td>
-		</tr>
-		</table>  
+<br>
+	<p align="center">
+	<a align="center">0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E</a>
+	</p>
+<br>  
 
-		---
-		- MetaMaskにHENKAKUトークンを追加します。Polygon networkの設定が完了したら、MetaMaskのウォレットに戻り、中央一番上にあるウォレット(Wallet)のすぐ下のNetwork名をタップし、一番下にあるPolygon Mainnetをタップします(Polygon Mainnetは隠れているかもしれないので、一番下までスワイプ(swipe)してください)。一番下にある"Import Tokens"をタップし、トークンアドレス(Token Address)に以下のアドレスをコピー＆ペーストします。
+			- 右下にある"トークンの追加(IMPORT)"をタップします。ウォレットのMATICの下に、"0 HENKAKU"と表示されれば完了です。
 
 
-		<br>
-		<p align="center">
-		<a align="center">0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E</a>
-		</p>
-		<br>  
-		
-		-	右下にある"トークンの追加(IMPORT)"をタップします。ウォレットのMATICの下に、"0 HENKAKU"と表示されれば、完了です。
 
-	- **\$MATICを取得**します。  
+---
+
+- **\$MATICを取得**します。  
 	ブロックチェーンでトークンを送るときには、ガス代という取引手数料を支払う必要があり、取引手数料が格安のPolygonネットワークで使われる仮想通貨MATICが必要になります。\$MATICは、日本の仮想通貨取引所で購入できないため、\$MATICをお持ちでない方は、以下の手続きによって、Adminより\$MATICを入手することができます。  
 	  - **❓｜q-and-aというチャネル**をタップします。  
 	  - 投稿に"INITIAL \$MATIC needed "をコピー＆ペースト (投稿はしない)  
@@ -98,7 +103,7 @@ dateCreated:
 
 	- **HENKAKUトークンを使った実験をするための設定**をします。
 	  - **💰│henkaku-exchange というチャネル**をタップします。
-	  - "!register" というコマンドを投稿してください。
+	  - "/register" というコマンドを投稿してください。
 	  - coinvise Bot からDMが届いたら、DMにあるリンクをコピーします。
 	  - MetaMaskのウォレットをPolygon Mainnetに設定します。
 	  - MetaMaskのブラウザーを開き、"Search or Type URL"と記載されているところにペーストして開いてください。  
@@ -106,7 +111,7 @@ dateCreated:
 	  - "connect to Metamask"をタップします。  
 	  - "Veryfy using MetaMask"をタップします。  
 	  - "署名(Sign)"をタップすると、"Registration Complete"と表示されます。  
-	  - Discordに戻ると"!register"の下に✅が表示されたら登録完了です。  
+	    
 #### ※これでコミュニティでの初期設定が終わりました。お疲れ様でした。  
 
 5. **HENKAKUトークンを誰かに送る方法**  
