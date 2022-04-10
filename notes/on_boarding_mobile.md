@@ -50,7 +50,10 @@ dateCreated: 2022-02-28T09:17:45.257Z
 		- If the message "Wallet Connected!" appears, the connection is complete.  
 	- **How to get HENKAKU token**
 	  - You can set from the following SettingApp.  
-    [Setting App](/en/https://shiniri.vercel.app/)
+    [Setting App](https://shiniri.vercel.app/)
+    
+    ![/images/shiniri_top.png](/images/shiniri_top.png =250x)
+    
     ---  
 	  - Manual setting is as follows;
 		 - You must have Polygon configured on your wallet. Open the MetaMask app, tap the "≡" button in the upper left corner, tap ⚙Settings, tap Networks (Add and edit custom RPC networks), tap Add network, and then enter the following information, and finally tap "Add".  
