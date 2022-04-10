@@ -2,7 +2,7 @@
 title: henkaku-token
 description: 
 published: true
-date: 2022-04-10T09:05:24.707Z
+date: 2022-04-10T13:45:12.016Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-12T06:37:20.358Z
@@ -31,7 +31,9 @@ Breaching any of the following rules will cause the member to be banned from the
 * In order to join the community, please fill out [Entry-Form]（https://airtable.com/shrbDbYUBoFgkg0tY)and provide your ETH address. If you have already filled out the entry form, please skip this step and proceed to the next.
   * If you don't have a wallet, please install [MetaMask](https://metamask.io) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
 * You can set from the following Setting App.
- [Setting App](/en/https://shiniri.vercel.app/)
+ [Setting App](https://shiniri.vercel.app/)
+ ![/images/shiniri_top.png](/images/shiniri_top.png =250x)
+
 * Manual setting is as follows;
   * You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
     * Open MetaMask and click on the Network Selection drop-down.
