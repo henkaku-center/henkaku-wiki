@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-04-10T08:18:54.849Z
+date: 2022-04-10T08:19:30.026Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -80,7 +80,7 @@ dateCreated: 2022-02-24T12:59:43.422Z
   			</tr>
 			</table>
       
-			- MetaMaskにHENKAKUトークンを追加します。Polygon networkの設定が完了したら、MetaMaskのウォレットに戻り、中央一番上にあるウォレット(Wallet)のすぐ下のNetwork名をタップし、一番下にあるPolygon Mainnetをタップします(Polygon Mainnetは隠れているかもしれないので、一番下までスワイプ(swipe)してください)。一番下にある"Import Tokens"をタップし、トークンアドレス(Token Address)に以下のアドレスをコピー＆ペーストします。
+	- MetaMaskにHENKAKUトークンを追加します。Polygon networkの設定が完了したら、MetaMaskのウォレットに戻り、中央一番上にあるウォレット(Wallet)のすぐ下のNetwork名をタップし、一番下にあるPolygon Mainnetをタップします(Polygon Mainnetは隠れているかもしれないので、一番下までスワイプ(swipe)してください)。一番下にある"Import Tokens"をタップし、トークンアドレス(Token Address)に以下のアドレスをコピー＆ペーストします。
 
 <br>
 	<p align="center">
@@ -88,7 +88,7 @@ dateCreated: 2022-02-24T12:59:43.422Z
 	</p>
 <br>  
 
-			- 右下にある"トークンの追加(IMPORT)"をタップします。ウォレットのMATICの下に、"0 HENKAKU"と表示されれば完了です。
+- 右下にある"トークンの追加(IMPORT)"をタップします。ウォレットのMATICの下に、"0 HENKAKU"と表示されれば完了です。
 
 
 
