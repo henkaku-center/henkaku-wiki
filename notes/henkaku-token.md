@@ -1,3 +1,13 @@
+---
+title: henkaku-token
+description: 
+published: true
+date: 2022-04-10T09:05:24.707Z
+tags: 
+editor: markdown
+dateCreated: 2022-02-12T06:37:20.358Z
+---
+
 # The Henkaku Token
 
 Draft December 4, 2021 - 15:09:43
@@ -20,17 +30,21 @@ Breaching any of the following rules will cause the member to be banned from the
 * From your PC, please follow the steps below (Chrome and Brave are recommended).
 * In order to join the community, please fill out [Entry-Form]（https://airtable.com/shrbDbYUBoFgkg0tY)and provide your ETH address. If you have already filled out the entry form, please skip this step and proceed to the next.
   * If you don't have a wallet, please install [MetaMask](https://metamask.io) or the equivalent. Instructions in Japanese [here](https://joi.ito.com/jp/archives/2021/11/08/005731.html).
-* You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
-  * Open MetaMask and click on the Network Selection drop-down.
-  * Select Custom RPC and enter the following information.
-    * Network Name: Polygon Mainnet
-    * New RPC URL: https://polygon-rpc.com/
-    * Chain ID: 137
-    * Currency Symbol: MATIC
-    * Block Explorer URL: https://polygonscan.com
-* To add the token on MetaMask so you can see it, scroll to the bottom of the Assets section of the wallet, click "Import Tokens" and enter the token contract address `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`.
-  * If you see 0 HENKAKU, you are done setting up your wallet.
-  * The token address on the Polygon blockchain is : [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E) and is called $HENKAKU.
+* You can set from the following Setting App.
+ [Setting App](/en/https://shiniri.vercel.app/)
+* Manual setting is as follows;
+  * You must have Polygon configured on your wallet. You can see instructions for MetaMask [here](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/).
+    * Open MetaMask and click on the Network Selection drop-down.
+    * Select Custom RPC and enter the following information.
+      * Network Name: Polygon Mainnet
+      * New RPC URL: https://polygon-rpc.com/
+      * Chain ID: 137
+      * Currency Symbol: MATIC
+      * Block Explorer URL: https://polygonscan.com
+  * To add the token on MetaMask so you can see it, scroll to the bottom of the Assets section of the wallet, click "Import Tokens" and enter the token contract address `0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E`.
+    * If you see 0 HENKAKU, you are done setting up your wallet.
+    * The token address on the Polygon blockchain is : [0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E](https://polygonscan.com/token/0xd59FFEE93A55F67CeD0F56fa4A991d4c8c8f5C4E) and is called $HENKAKU.
+   
 * Login to Henkaku Discord server and read `#👋│welcome` and `#🚀│start-here`. Follow the instructions to gain access to the other channels.
 * After introducing yourself in the `#👋│intros` channel, go to the `#💰│tipping` channel and enter the `/register` command.
   * You will receive a DM from an account called `@Coinvise Bot#9566`. Please follow the instructions and the DM which will ask you to connect to your MetaMask or other wallet and then verify your ETH address. You will need to click on the text on the page that says "Verify using MetaMask" (or other wallet).
