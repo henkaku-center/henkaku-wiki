@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-04-10T08:18:34.540Z
+date: 2022-04-10T08:18:54.849Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -57,7 +57,7 @@ dateCreated: 2022-02-24T12:59:43.422Z
 
 - Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。
       
-      <table align="center">
+   <table align="center">
   			<tr align="center">
           <td>ネットワーク名 (Network Name)</td>
           <td>Polygon Mainnet</td>
