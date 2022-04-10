@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (EN)
 description: 
 published: true
-date: 2022-04-10T08:58:12.249Z
+date: 2022-04-10T09:00:29.173Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-28T09:17:45.257Z
@@ -49,7 +49,7 @@ dateCreated: 2022-02-28T09:17:45.257Z
 		- Tap "Sign" on the bottom right to connect your wallet, and "Message: Verify account ownership" is displayed.  
 		- If the message "Wallet Connected!" appears, the connection is complete.  
 	- **How to get HENKAKU token**
-	  - You can setup the following SettingApp.  
+	  - You can set from the following SettingApp.  
     [Setting App](/en/https://shiniri.vercel.app/)
     ---  
 	  - Manual setting is as follows;
