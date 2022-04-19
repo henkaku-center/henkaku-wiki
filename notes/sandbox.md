@@ -1,6 +1,6 @@
 # Goomay-sanの投稿（ディスコードより）
 1. githubのSignUp(Account Create)する
-2. https://github.com/henkaku-center/henkaku-wiki　に入る
+2. https://github.com/henkaku-center/henkaku-wiki　　に入る
 3. forkをクリック
 4. noteのフォルダをクリック
 5. sandbox.mdをクリック
