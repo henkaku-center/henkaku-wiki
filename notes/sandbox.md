@@ -2,6 +2,8 @@
 
 - sandbox
 
+test/goomay
+
 ## sandbox (kiyotest)
 - test
 - test
