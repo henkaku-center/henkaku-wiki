@@ -34,7 +34,7 @@ RYU is here
 
 ## sandbox (floatingape)
 ### sandbox
-- Say hello to geeknese-san
+- Say hello to geeknees-san
 > 2nd Workshop?
 # SANDBOX
 -- hello
