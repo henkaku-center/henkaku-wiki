@@ -1,6 +1,30 @@
-# sandbox
+# Goomay-sanの投稿（ディスコードより）
+1. githubのSignUp(Account Create)する
+2. https://github.com/henkaku-center/henkaku-wiki　　に入る
+3. forkをクリック
+4. noteのフォルダをクリック
+5. sandbox.mdをクリック
+6. 鉛筆(編集)クリック
+7. propose change
+8. New pull request
 
+👆　ピン留めできなかったので、転載させていただきました！
+
+
+
+
+
+# sandbox
+# hello hellooooo
 - sandbox
+- I hope you got it.
+できたのかな？
+***もう一度復習！***
+
+大きくする
+
+- sand
+- 
 
 - henkaku
 
@@ -8,15 +32,16 @@
 
 > こんにちは
 
-＃- Thank you so much geeknes san!
- - 
- ＃　github　と　Wiki なにがちがう
+＃ Thank you so much geeknees san!
+
+＃ github　と　Wiki なにがちがう
 
 - henkaku now
 
 test/goomay
 
 ## sandbox (kiyotest)
+
 - test
 - test
 **test**
@@ -39,3 +64,6 @@ RYU is here
 # SANDBOX
 -- hello
 --- hello
+# Githubをおぼえた！
+
+- Happy Henkaku
