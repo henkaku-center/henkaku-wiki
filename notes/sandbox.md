@@ -69,3 +69,8 @@ RYU is here
 - Happy Henkaku
 > Happy Henkaku
 Happy Henkaku
+
+1.test
+❶ test
+① test
+Ⅰ test
