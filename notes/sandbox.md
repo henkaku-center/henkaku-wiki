@@ -74,3 +74,5 @@ Happy Henkaku
 ❶ test
 ① test
 Ⅰ test
+> test
+=> test
