@@ -11,8 +11,7 @@
 | **場所**  | Shibuya Pangaea Garden |
 | **参加者** | 15名（オンライン、オフライン合わせて）   |
 
-![chasen](https://user-images.githubusercontent.com/100918937/165732897-4c863135-4e8d-4a89-b9d5-aa61b541f118.jpg)
-
+<img src="https://user-images.githubusercontent.com/100918937/165732897-4c863135-4e8d-4a89-b9d5-aa61b541f118.jpg" width="320px">
 
 まるで初夏のように暖かい日差しがふり注ぐ午後、HENKAKU Community メンバーの有志が集まり、小さなお茶会を催しました。メンバーが企画した初の試みにも関わらず、オンラインとのハイブリッド開催で大いに盛り上がりました。果たしてその内容とは？写真とともに振り返ります。
 
@@ -52,5 +51,5 @@ Discord上だけでなく、リアルに集まれる場で、交流を深めよ�
 
 また、当日はライブ中継を行い、投票やDJなどオンラインメンバーも参加できるよう工夫をしたことで、ハイブリッドイベントでも十分楽しむことができました。今回を成功例として、今後もコミュニティが発展するようなイベントを開催していきたいと考えています。
 
-![pangaea-garden](https://user-images.githubusercontent.com/100918937/165733053-7a94a3ba-3b58-4e01-9394-4b366ba99a07.jpeg)
 
+<img src="https://user-images.githubusercontent.com/100918937/165733053-7a94a3ba-3b58-4e01-9394-4b366ba99a07.jpeg" width="320px">
