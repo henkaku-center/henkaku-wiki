@@ -69,3 +69,13 @@ RYU is here
 - Happy Henkaku
 > Happy Henkaku
 Happy Henkaku
+
+1.test
+❶ test
+① test
+Ⅰ test
+> test
+=> test
+- シャープ=>太い大文字、シャープ２=>太い中文字、シャープ３=>太い小文字
+- バー=>・
+- 大なり不等号=>
