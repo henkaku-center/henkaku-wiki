@@ -79,3 +79,29 @@ Happy Henkaku
 - シャープ=>太い大文字、シャープ２=>太い中文字、シャープ３=>太い小文字
 - バー=>・
 - 大なり不等号=>
+
+# Markdown test1
+- A format that makes easy to decorate text such as bold and headlines.
+* Easy to use compared to HTML.
++ You need to use a web servise, app, editor, etc. that support markdown.
+## Markdown Test2
+- To start a new line, enter two spaces at the end of the sentence  
+- and press the line feed key.
+- [] markdown
+- [X] Markdown
+- [x] MARKDOWN
+1. number+period+space
+2. **Bold**
+3. *Itaric*
+4. ~~Cancellation line~~
+## Markdown Test3
+> Quote test
+> A format that makes easy to decorate text such as bold and headlines.
+- Insert image=>![Alternate text](image URL)
+- Linked text=>[Linked text](URL)
+*****
+- Table  
+- | No.  | Markdown  |  How to write |  
+- |:-----|:-----:|------:|
+- |  1   |itemization ｜Enter "-" and one-byte spaces at the beginning of a sentence ｜
+- ｜　　２　｜numbering | Enter numbers and one-byte spaces at the beginning of a sentence ｜
