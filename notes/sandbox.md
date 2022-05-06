@@ -116,3 +116,9 @@ Happy Henkaku
 |:---- ||:----:||-----:|
 |  1  || itemization   || Enter"-"and one-byte spaces at the beginning of a sentence |
 |   2 || numbering  || Enter numbers and one-byte spaces at the beginning of a sentence |
+## Markdown Test3-2
+|  1    |   2   |   3   |
+| :---- | :---: | ----: |
+|   A   | B     | C     |
+---
+|  12   | 34    |  567  |
