@@ -61,5 +61,4 @@ web3時代では、企業が人を集めるのではなく、プロジェクト�
 👉番組は＜<a href="https://youtu.be/MqGSojMbb1E" target="_blank" rel="noopener noreferrer">コチラ</a>
 ＞のYoutubeからご覧いただけます。リード・ホフマンさんのインタビューやJoiさんのお話をぜひ動画でご覧ください。
 
-[侍エンジニアブログ](https://www.sejuku.net/blog/){:target="_blank"}
 
