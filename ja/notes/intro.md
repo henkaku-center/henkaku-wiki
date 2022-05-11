@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2022-02-12T01:50:14.024Z
 ---
 
-# Intro to What is Web3 
+# Intro to What is web3 
 
-## インターネットとは？　〜Web1.0からweb3.0へ〜
+## インターネットとは？　〜Web1.0からweb3へ〜
 
 BSテレ東「<a href="https://www.bs-tvtokyo.co.jp/earthshottv/" target="_blank" rel="noopener noreferrer">EARTH SHOT TV</a>」（毎週月曜日よる10時30分）では、伊藤穰一さんが山口真由さんとともに「今後の世界を変えていくであろう次世代のテクノロジー」を紹介しています。
 
@@ -21,8 +21,8 @@ BSテレ東「<a href="https://www.bs-tvtokyo.co.jp/earthshottv/" target="_blank
 
 ----
 
-### Web1.0・Web2.0・web3.0とは？
-<img src="https://user-images.githubusercontent.com/100918937/167130189-1dc2faa1-8d1b-4458-a9d3-7e17bc96fcfa.png">
+### Web1.0・Web2.0・web3とは？
+<img src="https://user-images.githubusercontent.com/100918937/167774947-7e38fe24-b507-45b6-85c9-5abed0aa8ae3.png">
 
 **■ Web1.0**
 
@@ -32,7 +32,7 @@ BSテレ東「<a href="https://www.bs-tvtokyo.co.jp/earthshottv/" target="_blank
 
 インターネットの接続速度が高速化し、画像や動画を使ったコンテンツの配信が可能に。ユーザの見解がメディアへと直結し、プロだけでなく一般人の意見も尊重されるようになった。利便性が向上する一方、特定の企業に情報が集中しプライバシーの侵害が問題視されている。
 
-**■ web3.0**
+**■ web3**
 
 自律分散システムであるブロックチェーン技術によって、全員で暗号化された情報を共有し、個人が自らの情報を管理できるようになる。特定企業が個人情報を管理する時代が終わりを迎えるといわれている。
 
@@ -42,7 +42,7 @@ BSテレ東「<a href="https://www.bs-tvtokyo.co.jp/earthshottv/" target="_blank
 <br>
 
 ### web3で何が変わるのか
-<img src="https://user-images.githubusercontent.com/100918937/167130464-90910218-f6e2-44ce-b496-69b30121e1ed.png">
+<img src="https://user-images.githubusercontent.com/100918937/167775259-125a89f5-9f63-4f68-a5a9-52e74b78d1c1.png">
 
 **■ NFT**
 
@@ -57,7 +57,7 @@ NFT（デジタル資産の唯一無二性を証明できる技術）は、新�
 トークンが広まることによって働き方だけでなく、お金の流れも変わるだろう。中小企業はこれまで銀行からお金を借り入れて事業を行うことが多かったが、顧客が直接投資を受けやすくなるといった変化も考えられる。
 <br>
 
-### web3.0時代にどう対応するのか
+### web3時代にどう対応するのか
 
 web3時代では、企業が人を集めるのではなく、プロジェクトに人が集まりトークンの分配を受け事業を推進する方法が適している。参加者同士で意思決定をし、自律的に組織が運営されるDAOであれば、今までの事業構造でなし得なかったことを実現できるかもしれない。
 
