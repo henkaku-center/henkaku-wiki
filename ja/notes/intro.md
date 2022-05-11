@@ -22,7 +22,7 @@ BSテレ東「<a href="https://www.bs-tvtokyo.co.jp/earthshottv/" target="_blank
 ----
 
 ### Web1.0・Web2.0・web3とは？
-<img src="https://user-images.githubusercontent.com/100918937/167130189-1dc2faa1-8d1b-4458-a9d3-7e17bc96fcfa.png">
+<img src="https://user-images.githubusercontent.com/100918937/167774947-7e38fe24-b507-45b6-85c9-5abed0aa8ae3.png">
 
 **■ Web1.0**
 
@@ -42,7 +42,7 @@ BSテレ東「<a href="https://www.bs-tvtokyo.co.jp/earthshottv/" target="_blank
 <br>
 
 ### web3で何が変わるのか
-<img src="https://user-images.githubusercontent.com/100918937/167774947-7e38fe24-b507-45b6-85c9-5abed0aa8ae3.png">
+<img src="https://user-images.githubusercontent.com/100918937/167775259-125a89f5-9f63-4f68-a5a9-52e74b78d1c1.png">
 
 **■ NFT**
 
