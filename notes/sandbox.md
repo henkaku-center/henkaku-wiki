@@ -122,3 +122,8 @@ Happy Henkaku
 |   A   | B     | C     |
 ---
 |  12   | 34    |  567  |
+
+|  No.         |  Markdown    | How to write |
+|:-------------|:------------:|-------------:|
+|     1        | itemization  |Enter "and _  |
+|
