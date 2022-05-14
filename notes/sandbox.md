@@ -127,3 +127,7 @@ Happy Henkaku
 |:-------------|:------------:|-------------:|
 |     1        | itemization  |Enter "and _  |
 |
+
+～打消し線～(Chelsea)
+# Henkaku 
+### Henkaku
