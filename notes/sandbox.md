@@ -127,6 +127,11 @@ Happy Henkaku
 |:-------------|:------------:|-------------:|
 |     1        | itemization  |Enter "and _  |
 |
+
+～打消し線～(Chelsea)
+# Henkaku 
+### Henkaku
+
 ## Markdown test ##
 1. test1
 2. test2
