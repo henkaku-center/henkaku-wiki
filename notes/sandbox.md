@@ -128,6 +128,14 @@ Happy Henkaku
 |     1        | itemization  |Enter "and _  |
 |
 
+# はじめてのGithub20220514
+## できたかな
+### へへへ
+＊ 今日は天気がいいね  
+＊ 明日はピクニックへ行こう〜
+- [] 
+
+
 # HENKAKU  - 1:DAOとは
 * HENKAKU KAMONについて　　*ドキュメンテーション*
 (1) ［］ 
