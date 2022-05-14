@@ -127,3 +127,21 @@ Happy Henkaku
 |:-------------|:------------:|-------------:|
 |     1        | itemization  |Enter "and _  |
 |
+
+## Markdown. 
+- 箇条書き
+- 箇条書き
+> 引用
+> 引用
+
+
+1. ナンバリング
+
+2. test
+3. 
+
+
+**太字**
+
+
+[コチラ](https://wiki.community.henkaku.org/ja/notes/on_boarding_mobile)
