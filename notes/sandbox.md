@@ -127,3 +127,9 @@ Happy Henkaku
 |:-------------|:------------:|-------------:|
 |     1        | itemization  |Enter "and _  |
 |
+## Markdown test ##
+1. test1
+2. test2
+- いい天気
+> kk
+> 
