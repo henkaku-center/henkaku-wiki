@@ -145,3 +145,36 @@ Happy Henkaku
 
 
 [コチラ](https://wiki.community.henkaku.org/ja/notes/on_boarding_mobile)
+
+
+# はじめてのGithub20220514
+## できたかな
+### へへへ
+＊ 今日は天気がいいね  
+＊ 明日はピクニックへ行こう〜
+- [] 
+
+
+# HENKAKU  - 1:DAOとは
+* HENKAKU KAMONについて　　*ドキュメンテーション*
+(1) ［］ 
+----NO1---
+-1:---2. 
+*Floating Apeさんありがとうございました！！！*
+
+
+# ドキュメントづくりに貢献しよう！
+
+- Floating Apeさんの説明
+- やってみよう～
+
+～打消し線～(Chelsea)
+# Henkaku 
+### Henkaku
+
+## Markdown test ##
+1. test1
+2. test2
+- いい天気
+> kk
+> 
