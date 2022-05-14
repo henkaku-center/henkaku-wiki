@@ -1,3 +1,5 @@
+[HENKAKU Workshop資料](https://speakerdeck.com/floatingape/61bea582f17a81a430c5058d73a41fca)
+
 # Goomay-sanの投稿（ディスコードより）
 1. githubのSignUp(Account Create)する
 2. https://github.com/henkaku-center/henkaku-wiki　　に入る
@@ -9,10 +11,6 @@
 8. New pull request
 
 👆　ピン留めできなかったので、転載させていただきました！
-
-
-
-
 
 # sandbox
 # hello hellooooo
@@ -128,4 +126,54 @@ Happy Henkaku
 |     1        | itemization  |Enter "and _  |
 |
 
-[HENKAKU Workshop資料](https://speakerdeck.com/floatingape/61bea582f17a81a430c5058d73a41fca)
+
+## Markdown. 
+- 箇条書き
+- 箇条書き
+> 引用
+> 引用
+
+
+1. ナンバリング
+
+2. test
+3. 
+
+
+**太字**
+
+
+[コチラ](https://wiki.community.henkaku.org/ja/notes/on_boarding_mobile)
+
+
+# はじめてのGithub20220514
+## できたかな
+### へへへ
+＊ 今日は天気がいいね  
+＊ 明日はピクニックへ行こう〜
+- [] 
+
+
+# HENKAKU  - 1:DAOとは
+* HENKAKU KAMONについて　　*ドキュメンテーション*
+(1) ［］ 
+----NO1---
+-1:---2. 
+*Floating Apeさんありがとうございました！！！*
+
+
+# ドキュメントづくりに貢献しよう！
+
+- Floating Apeさんの説明
+- やってみよう～
+
+～打消し線～(Chelsea)
+# Henkaku 
+### Henkaku
+
+## Markdown test ##
+1. test1
+2. test2
+- いい天気
+> kk
+> 
