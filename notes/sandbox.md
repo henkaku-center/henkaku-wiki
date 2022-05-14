@@ -132,3 +132,14 @@ Happy Henkaku
 
 - Floating Apeさんの説明
 - やってみよう～
+
+～打消し線～(Chelsea)
+# Henkaku 
+### Henkaku
+
+## Markdown test ##
+1. test1
+2. test2
+- いい天気
+> kk
+> 
