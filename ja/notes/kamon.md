@@ -2,7 +2,7 @@
 title: Kamon NFT
 description: 
 published: true
-date: 2022-06-10T09:46:04.728Z
+date: 2022-06-10T13:06:00.546Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-10T09:46:04.728Z
@@ -27,4 +27,4 @@ https://rinkeby.etherscan.io/address/0x6FDDbe89B90795Eb0652F80fc3dBC2c61e753b1C
 https://goerli.etherscan.io/address/0x02Dd992774aBCacAD7D46155Da2301854903118D
 
 #### mainnet
-https://polygonscan.com/address/0xbf6f98cb455c73d389b0fb7ee314c5058569a1a4#code
+https://polygonscan.com/address/0xbf6f98cb455c73d389b0fb7ee314c5058569a1a4
