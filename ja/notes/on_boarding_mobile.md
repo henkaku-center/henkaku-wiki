@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-04-10T08:42:48.213Z
+date: 2022-07-18T05:47:53.946Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -97,14 +97,10 @@ dateCreated: 2022-02-24T12:59:43.422Z
 ---
 
 - **\$MATICを取得**します。  
-	ブロックチェーンでトークンを送るときには、ガス代という取引手数料を支払う必要があり、取引手数料が格安のPolygonネットワークで使われる仮想通貨MATICが必要になります。\$MATICは、日本の仮想通貨取引所で購入できないため、\$MATICをお持ちでない方は、以下の手続きによって、Adminより\$MATICを入手することができます。  
-	  - **❓｜q-and-aというチャネル**をタップします。  
-	  - 投稿に"INITIAL \$MATIC needed "をコピー＆ペースト (投稿はしない)  
-	  - ご自身のウォレットのアドレスをコピーし、"...needed "の後にペースト  
-		(MetaMaskウォレットに記載されている'0x............'というアドレスの表示をタップするとコピーできます。)  
-	  - 投稿すると、@adminが、あなたのウォレットに\$MATICを送ります。送られた\$MATICはMetaMaskで確認できます。少額ですが、このコミュニティでHENKAKUトークンを送る程度であれば、全く問題ありません。
+	ブロックチェーンでトークンを送るときには、ガス代という取引手数料を支払う必要があり、取引手数料が格安のPolygonネットワークで使われる仮想通貨MATICが必要になります。\$MATICは、日本の仮想通貨取引所で購入できないため、\$MATICをお持ちでない方は、以下のリンクに記載の手続きによって、\$MATICを入手することができます。  
+https://adaptable-afternoon-771.notion.site/Dework-INITIAL-MATIC-f92b55f41886448fa1717387b7dcb9e9
 
-	- **HENKAKUトークンを使った実験をするための設定**をします。
+- **HENKAKUトークンを使った実験をするための設定**をします。
 	  - **💰│henkaku-exchange というチャネル**をタップします。
 	  - "/register" というコマンドを投稿してください。
 	  - coinvise Bot からDMが届いたら、DMにあるリンクをコピーします。
