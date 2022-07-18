@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (EN)
 description: 
 published: true
-date: 2022-04-10T09:00:29.173Z
+date: 2022-07-18T05:42:26.002Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-28T09:17:45.257Z
@@ -99,12 +99,8 @@ dateCreated: 2022-02-28T09:17:45.257Z
 ---    
 
   -  **Get some MATIC**  
-	When sending tokens on the blockchain, you need to pay a transaction fee called "gas fees". You will need some \$MATIC to send HENKAKU tokens (\$HENKAKU) in the Polygon network. If you don't have \$MATIC, you can get $MATIC from Admin by following the procedure below.     
-	  - **Tap the channel "❓｜q-and-a"**  
-	  - Copy and paste "INITIAL \$MATIC needed" into message area in the bottom (but do not post).  
-	  - Copy your address from your wallet and paste followed by ". .needed”.  
-		(You can copy your address "0x............" from your MetaMask wallet).  
-	  - When you post, Admin will send some \$MATIC to your wallet. You can check your \$MATIC in MetaMask. It's a very small amount, but if you're just sending $HENKAKU in this community, it's no problem at all.  
+	When sending tokens on the blockchain, you need to pay a transaction fee called "gas fees". You will need some \$MATIC to send HENKAKU tokens (\$HENKAKU) in the Polygon network. If you don't have \$MATIC, you can get $MATIC by following the instruction in the link below.  
+  https://adaptable-afternoon-771.notion.site/Dework-INITIAL-MATIC-f92b55f41886448fa1717387b7dcb9e9
   - **How to use $HENKAKU**。
 	  - **Tap the channel "💰│henkaku-exchange"**  
 	  - Post the command "/register".
