@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (EN)
 description: 
 published: true
-date: 2022-07-18T05:44:09.913Z
+date: 2022-07-18T05:54:56.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-28T09:17:45.257Z
@@ -114,7 +114,11 @@ dateCreated: 2022-02-28T09:17:45.257Z
 	  
     
 #### ※Now you have finished the initial setup in the community. Thank you for your time.  
----
+<br>
+<br>
+
+### **You are currently unable to send $HENKAKU by following steps.**
+
 5. **How to send $HENKAKU**  
 	Once you have finished setting up $HENKAKU, you can use the "/tip" command to send $HENKAKU to other community members, who have already finished setting up.  
 	- **Tap the channel "💰│henkaku-exchange"**"
