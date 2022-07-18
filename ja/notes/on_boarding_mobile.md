@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-07-18T05:47:53.946Z
+date: 2022-07-18T05:51:27.665Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -113,6 +113,10 @@ https://adaptable-afternoon-771.notion.site/Dework-INITIAL-MATIC-f92b55f41886448
 	    
 #### ※これでコミュニティでの初期設定が終わりました。お疲れ様でした。  
 
+<br>
+<br>
+  
+### **現在は以下の手順による「モバイルからHENKAKUトークンを送る」ができません。**
 5. **HENKAKUトークンを誰かに送る方法**  
 	HENKAKUトークンの設定が終わると、/tipコマンドで既に設定が終わっているこのコミュニティ参加者とHENKAKUトークンを送り合うことができます。  
 	- **💰│henkaku-exchangeというチャネル**をタップします。/tipコマンドの使い方は以下の手順です。  
