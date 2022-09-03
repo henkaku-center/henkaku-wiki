@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (EN)
 description: 
 published: true
-date: 2022-07-18T05:54:56.456Z
+date: 2022-09-03T10:04:10.706Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-28T09:17:45.257Z
@@ -50,10 +50,8 @@ dateCreated: 2022-02-28T09:17:45.257Z
 		- If the message "Wallet Connected!" appears, the connection is complete.  
 	- **How to get HENKAKU token**
 	  - You can set from the following SettingApp.  
-    [Setting App](https://shiniri.vercel.app/)
-    
-    ![/images/shiniri_top.png](/images/shiniri_top.png =250x)
-    
+    [Setting App](https://omise.henkaku.org/shiniri/)
+        
     ---  
 	  - Manual setting is as follows;
 		 - You must have Polygon configured on your wallet. Open the MetaMask app, tap the "≡" button in the upper left corner, tap ⚙Settings, tap Networks (Add and edit custom RPC networks), tap Add network, and then enter the following information, and finally tap "Add".  
