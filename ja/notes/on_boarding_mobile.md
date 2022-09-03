@@ -2,7 +2,7 @@
 title: onboarding tips for mobile (JA)
 description: 
 published: true
-date: 2022-07-18T05:51:27.665Z
+date: 2022-09-03T10:03:50.830Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-24T12:59:43.422Z
@@ -51,10 +51,8 @@ dateCreated: 2022-02-24T12:59:43.422Z
 		- "Wallet Connected!"と表示されたら接続完了です。  
 	- **HENKAKUトークンの設定**をします。  
 		- この以下の設定アプリから、簡単に設定できます。　
-    [設定アプリはこちら](https://shiniri.vercel.app/)
-    
-    ![/images/shiniri_top.png](/images/shiniri_top.png =250x)
-     
+    [設定アプリはこちら](https://omise.henkaku.org/shiniri/)
+         
     ---
     - 以下の方法で、手動で設定することもできます。
  	- Polygon networkの設定をします。MetaMaskのアプリを開いて、左上の≡をタップして、設定(Settings)をタップ、さらにネットワー(Networks)をタップし、"ネットワークの追加(Add network)"をタップし、以下の通り入力し、最後に"追加(Add)"をタップします。
