@@ -2,7 +2,7 @@
 title: henkaku-token
 description: 
 published: true
-date: 2022-05-30T20:43:26.033Z
+date: 2022-09-03T10:02:13.465Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-12T06:37:10.029Z
@@ -32,8 +32,7 @@ $HENKAKU トークン(以下、トークン)は、変革会コミュニティの
 * コミュニティメンバーになるには、[エントリーフォーム](https://airtable.com/shrbDbYUBoFgkg0tY)に必要事項とあなたのETHアドレスを入力してください。すでに入力がお済みの方は、次のステップにお進みください。
   * ウォレットをお持ちでない場合は、MetaMaskまたは同等のものをインストールしてください。 [日本語での説明はこちら](https://joi.ito.com/jp/archives/2021/11/08/005731.html)。
 * トークンの設定をは以下の設定アプリから、簡単に設定できます。　
-[トークンの設定アプリはこちら](https://shiniri.vercel.app/)
-![/images/shiniri_top.png](/images/shiniri_top.png =250x)
+[トークンの設定アプリはこちら](https://omise.henkaku.org/shiniri/)
 
 * 手動でトークンの設定をする方法は以下の通りです。
 　* トークンを受け取る前にウォレットにPolygon用の設定が必要な場合があります。MetaMaskウォレットを使用されている場合、[こちらに説明があります](https://docs.polygon.technology/docs/develop/metamask/config-polygon-on-metamask/)。
